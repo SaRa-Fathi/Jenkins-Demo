@@ -1,5 +1,4 @@
 # Jenkins-Demo
-
 #### This Repo is used in Jenkins and it must be build automatic there.
 ## Build Triggers
 ### Difference between using Poll SCM and GitHub hook trigger for GITScm polling:
