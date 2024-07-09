@@ -4,7 +4,7 @@
 ## Build Triggers
 ### Difference between using Poll SCM and GitHub hook trigger for GITScm polling:
 
-##**Poll SCM "Source Control Management":**
+## **Poll SCM "Source Control Management":**
    #### It periodically checks the repositories for changes.
    #### Jenkins periodically checks the version control system by comparing the current state with the previous state. If changes are detected, a build will trigger.
    #### It is used for projects with infrequent code changes.
@@ -34,7 +34,7 @@
 
         ###### then, Save the changes to apply the Poll SCM configuration to your Jenkins job.
 
-     * Step 5: Triggering Builds
+   * Step 5: Triggering Builds
         ###### Jenkins will now automatically check for changes in the specified interval and trigger a build if changes are detected.
  
  
