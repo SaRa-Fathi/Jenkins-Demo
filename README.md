@@ -3,6 +3,7 @@
 ## Build Triggers
 ### Difference between using Poll SCM and GitHub hook trigger for GITScm polling:
 * Poll SCM "Source Control Management":
- ###### firstly start. :)
+ ##### firstly start. :)
 * GitHub hook trigger for GITScm polling:
- ###### secondly start. :(
+ ##### secondly start. :(
+ 
