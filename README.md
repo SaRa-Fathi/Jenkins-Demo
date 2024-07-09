@@ -10,7 +10,9 @@
    #### It is used for projects with infrequent code changes.
  
    ### Configuration Of Jenkins Poll SCM:
-    * Step 1: Access Jenkins Dashboard
+   * Step 1: Access Jenkins Dashboard
+     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240201170744/J1-dashboard-(1).jpg">
+   * 
  
  
 ## * **GitHub hook trigger for GITScm polling:**
