@@ -87,7 +87,7 @@
         
         ###### Now save the changes.
 
-   * Step 5: Test the webhook.
+   * Step 6: Test the webhook.
 
       ###### To test the webhook, make changes to the GitHub repository and push them to it. This will activate the webhook, and Jenkins should automatically begin the job. To ensure that the job was executed, 
       ###### navigate to the Jenkins job and review the build history. The GitHub webhook should have triggered a new build. If the build completed successfully,
